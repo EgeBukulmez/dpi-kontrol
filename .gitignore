@@ -1,0 +1,8 @@
+# Sadece aray?z dosyalar?; GoodbyeDPI dosyalar? hari?
+/*
+!/.gitignore
+!/DPI-Kontrol.ps1
+!/DPI-Kontrol.vbs
+!/README.md
+!/LICENSE
+!/docs/
